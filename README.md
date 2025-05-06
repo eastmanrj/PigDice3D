@@ -6,4 +6,6 @@ I hopefully you can examine it and recommend changes so that it doesn't look lik
 Here are some specific problems that I am having:
 
 * In general, French has more letters of course, so I was forced to abbreviate the word "ordinateur" to "ord.", which I don't like.  Maybe you know of a better way to do this.
-* 
+* For "Fewest Rolls" and "Most Rolls", I used "Rouleaux +" and "Rouleaux -" because the French was too long.
+* Are the words "lancer" and "rouler" interchangeable?  Should I choose just one or use both?
+* I know that the French quotes << and >> should go right next to the words instead of having a space between them.  I need to fix that.
