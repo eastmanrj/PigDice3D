@@ -9,3 +9,6 @@ Here are some specific problems that I am having:
 * For "Fewest Rolls" and "Most Rolls", I used "Rouleaux +" and "Rouleaux -" because the French was too long.
 * Are the words "lancer" and "rouler" interchangeable?  Should I choose just one or use both?
 * I know that the French quotes << and >> should go right next to the words instead of having a space between them.  I need to fix that.
+* Is Depot the right word to use for Bank?  It seems right to me, but I am probably wrong.
+
+  Thank you for your help!  Send me a text, an email, or create an issue right here on Github.  Let me know what I owe you, and I'll pay Jen.
